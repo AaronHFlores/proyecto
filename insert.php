@@ -1,5 +1,5 @@
 <?php
-include 'conexion.php';
+include 'index.php';
 
 $gp = $_POST['gp'];
 $ga = $_POST['ga'];
